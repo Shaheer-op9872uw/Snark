@@ -70,7 +70,7 @@ This makes Snark fast, free, and fierce.
 
 You only need one key (provided via .env) to start generating snarky magic. No complex setup. Just plug and play.
 
-# 🧠 Powered by Groq
+# 🧠 Powered by Groq (tho models vary)
 Snark taps into the **Groq API** for *blink-and-you-miss-it* fast responses, ensuring your sarcasm gets delivered before your patience runs out.  
 It’s like having the internet’s meanest friend, but running at SSD speed.
 
