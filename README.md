@@ -12,7 +12,7 @@ But remember it always solves your issues, thats whats its made for! :)
 - 😈 **Biting sarcasm** baked into every reply.
 - 🪄 **Magical backend** powered by an ultra-fast LLM API.
 - 🌐 **Frontend + Backend** fully connected using Cloudflare Tunnel.
-- 💻 **Simple VS Code setup** — clone, install, run.
+- 💻 **Simple VS Code setup (or even colab if your the GPU fast guy XD)** — clone, install, run.
 
 ---
 
