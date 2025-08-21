@@ -1,7 +1,7 @@
 # 🧠 SNARK — The Sarcastic AI Sidekick
 
 > *“You asked for help? Here’s some sass with your solution.”*
-
+ 
 Meet **Snark**, the AI-powered web assistant who answers with a scowl and serves solutions with sass. Born out of late-night frustration and too much caffeine, Snark is your overqualified, underpaid sarcastic buddy who’s always online (if you’re lucky). It's like ChatGPT, but with a grudge.
 But remember it always solves your issues, thats whats its made for! :)
 ---
